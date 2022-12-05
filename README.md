@@ -30,11 +30,11 @@ And you' ll need to have a FPGA board to test the design in real world.
 
 * the design of CPU31
 
-  
+  <img src="https://github.com/ZhefeiGong/CPU/quickLook_image/CPU31.png" width="500px">
 
 * the design of CPU54
 
-  
+  <img src="https://github.com/ZhefeiGong/CPU/quickLook_image/CPU54.png" width="500px">
 
 ### Annotation
 
