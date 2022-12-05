@@ -1,5 +1,5 @@
 # CPU💻
-Here are some CPU designs you want ~_~
+Here are some CPU designs you want 😇
 
 
 ### Info
