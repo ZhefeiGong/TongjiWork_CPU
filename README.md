@@ -1,7 +1,7 @@
 # CPU💻
 Here are some CPU designs you want 😇
 
-### Info
+### Information
 
 The designs of the cpu written by Verilog. 
 
