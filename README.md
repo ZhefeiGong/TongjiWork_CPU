@@ -16,6 +16,9 @@ And you' ll need to have a FPGA board to test the design in real world.
    * harvard architecture
    * multi-cycle CPU 
 
+### Environment
+  * Vivado 2016.2
+
 ### Directory
 
 * CPU31
