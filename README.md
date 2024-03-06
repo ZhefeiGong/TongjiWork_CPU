@@ -33,13 +33,11 @@ And you' ll need to have a FPGA board to test the design in real world.
 
 * the design of CPU31
 
-## WORK2
-
-  <img src="quickLook_image/CPU31.jpg" width="500px">
+  <img src="quickLook_image/CPU31.jpg" width="750px">
 
 * the design of CPU54
 
-  <img src="quickLook_image/CPU54.jpg" width="500px">
+  <img src="quickLook_image/CPU54.jpg" width="750px">
 
 ### Annotation
 
